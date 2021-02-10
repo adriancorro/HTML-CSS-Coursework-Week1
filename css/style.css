@@ -12,42 +12,4 @@
 
 
 
- .encabezado {
-    background:rgb(189 183 183 / 85%);
-    text-align: center;
- }
 
- .centrar {
-    text-align: center;
- }
-
- .imagenencabezado{
-     position:absolute;
- }
-
- .parrafo{
-    background: rgb(0, 0, 0);
-    position: relative;
-    left: 400px;
-    color:azure;
-    padding:5px;
-    width: 400px;
- }
-
-
- .piedepagina{
-    background: rgb(189 183 183 / 85%); 
-    position:absolute;
-    top: 800px;
-    width: 100%;
- }
-
-h1{
-     color: cadetblue;
-     left: 400px;
-     position: relative;
- }
-
-#1{
-    
-}
